@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo_kafka-keycloak
+  annotations:
+    github.com/project-slug: redhat-na-ssa/demo_kafka-keycloak
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/rafaeltuelho
